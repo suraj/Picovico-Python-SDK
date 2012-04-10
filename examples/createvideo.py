@@ -33,7 +33,7 @@ except:
 
 
 if not ACCESS_TOKEN:
-    print 'Need a access_token to execute it. You can request one at: apirequest@picovico.com'
+    print 'Need a access_token to execute it. You can request one at: developers@picovico.com'
 
 picovico = Picovico(ACCESS_TOKEN)
 
