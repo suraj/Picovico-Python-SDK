@@ -1,4 +1,6 @@
 Picovico - Python Client Libraries
+    !!! This SDK has been deprecated in favor of the version 2+ Picovico API. Python SDK for Version 2+ Picovico API is still under development and will be released soon.
+
 [Version]
 0.1alpha
 
